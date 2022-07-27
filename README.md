@@ -6,7 +6,7 @@ Please install all required packages listed in `requirements.txt`:
 ```bash
 pip install requirements.txt
 ```
-Datasets have to be put into the [Data](Data) folder as they could not be pushed into git. Datasets are available [here](https://drive.google.com/drive/folders/17YEkmwEsbYwp3Kanv6CzN-llH5PGfAv3?usp=sharing). 
+Datasets have to be put into a Data folder as they could not be pushed into git. Datasets are available [here](https://drive.google.com/drive/folders/17YEkmwEsbYwp3Kanv6CzN-llH5PGfAv3?usp=sharing). 
 
 ##  Context
 This work was made in 2019 for a contest on time series anomaly detection on sensor data. 
